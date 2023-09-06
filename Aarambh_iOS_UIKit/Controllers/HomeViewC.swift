@@ -20,5 +20,4 @@ class HomeViewC: UIViewController {
         print("ViewController DEINIT...!")
     }
     // MARK: - ACTIONS
-    
 }
